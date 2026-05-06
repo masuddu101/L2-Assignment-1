@@ -1,4 +1,7 @@
+Blog Topic : 3
 How Generics Allow You to Build Reusable, Strictly Typed Functions and Components in TypeScript
+
+
 Introduction
 
 One of the main challenges in software development is writing code that is both reusable and type-safe. Often, developers face a trade-off: either write strict, type-safe code that only works for one data type, or use any to make it flexible and lose type safety.
