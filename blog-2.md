@@ -1,4 +1,5 @@
 Blog Topic : 3
+
 How Generics Allow You to Build Reusable, Strictly Typed Functions and Components in TypeScript
 
 
